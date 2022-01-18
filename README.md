@@ -6,4 +6,4 @@ Download Microsoft Spotlight photos
 2. run `npm install`
 3. Execute `start.bat`
 
-Files will be downloaded to images folder 
+The images will be downloaded to `images` folder 
